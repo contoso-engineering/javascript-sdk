@@ -1,8 +1,7 @@
 # javascript-sdk
 Contoso JavaScript SDK
 
-
+asdf
 asdf
 
-casdfa
 asdf
