@@ -7,3 +7,15 @@ app.get('/some/path', function(req, res) {
         res.redirect(url);
     }
 });
+
+function controller(msg) {
+	if (msg == 'start')
+		start();
+	else if (msg == 'start')
+		stop();
+	else
+		throw new Error("Message not understood.");
+}
+
+
+controller("test");
