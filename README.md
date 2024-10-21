@@ -1,2 +1,2 @@
 # javascript-sdk
-Contoso JavaScript SDKasdf
+Contoso JavaScript SDK
