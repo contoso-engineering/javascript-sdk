@@ -1,4 +1,4 @@
-name: Dummy jobs
+name: Dummy jobs 2
 
 on:
   push:
