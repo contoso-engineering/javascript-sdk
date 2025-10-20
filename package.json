@@ -4,7 +4,7 @@
   "description": "Contoso JavaScript SDasdfK",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"warning: no teasdffied\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/contoso-engineering/javascript-sdk/issues"
   },
-  "homepage": "https://github.com/contoso-engineering/javascript-sdk#readme"
+  "homepage": "https://github.com/contoso-engineering/javascript-sdk#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
