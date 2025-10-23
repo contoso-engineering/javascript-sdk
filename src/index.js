@@ -1,4 +1,5 @@
 /**
+stuiff
  * Contoso JavaScript SDK
  * Provides basic SDK functionality
  */
